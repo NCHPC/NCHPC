@@ -13,7 +13,7 @@
 
 #### Hi 👋, my name is NCHPC. I'm a programmer from Vietnam who wants to make life simpler and more enjoyable!
 
-###### If you have any questions or want to cooperate, you can contact me via mail: hienngochi2@gmial.com
+###### If you have any questions or want to cooperate, you can contact me via mail: hienngochi2@gmail.com
 
 ```
 Dear programmer
