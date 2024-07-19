@@ -35,33 +35,3 @@ NCHPC
 
 ```
 
-</div>
-
-<div align="center">
-
-###### *I'm just joking, if you have any questions, feel free to ask me. 👯*
-
-<img src="https://komarev.com/ghpvc/?username=chunhthanhde&label=Profile%20views&color=0e75b6&style=flat" alt="chunhthanhde" /> <br>
-
-<a href="https://ChunhThanhDe.github.io"><img src="https://github-profile-trophy.vercel.app/?username=chunhthanhde&title=Stars,Commits,Repositories,Followers,Experience,Issues,PullRequest,Reviews&theme=gruvbox" alt="chunhthanhde" /></a>
-
-</div>
-<div align="left">
-
----
-
-## ⚡ Multi-talented Software Developer from Vietnam 
-
-<be>
- 
-
-
-##### * - NCHPC
-
-<p> If you are looking for an Android-embedded software development engineer with experience in AOSP, Android framework, and Flutter App, capable of bringing value to your organization, then perhaps I am the piece of the puzzle for your organization you need to find. Nice to meet you friend. I am ready to take on new challenges with great contributions and worthy compensation. </p>
-
-<details close> 
-<summary><em><u>See more 🚀💥</u></em></summary>
-
----
-
