@@ -1,4 +1,4 @@
-![Uploading bug.gif…]()
+
 
 Dear programmer
 
