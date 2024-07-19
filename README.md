@@ -5,7 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=100&color=33B86F&center=true&vCenter=true&width=800&lines=Why+do+programmers+prefer+dark+mode%3F++;Because+light+attracts+bugs!)
 
-![Cartoon Love](media/bug.gif)
+![Cartoon Love](bug.gif)
 
 </div>
 
