@@ -1,3 +1,5 @@
+![Uploading bug.gif…]()
+
 Dear programmer
 
 when I wrote my code, only god
